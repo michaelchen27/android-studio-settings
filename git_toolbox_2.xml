@@ -1,0 +1,12 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="blameInlineDateType" value="RELATIVE" />
+    <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="previousVersionMigrated" value="true" />
+    <option name="showBlameWidget" value="false" />
+    <option name="showChangesInStatusBar" value="false" />
+    <option name="showStatusWidget" value="false" />
+    <option name="version" value="3" />
+  </component>
+</application>
