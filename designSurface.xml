@@ -82,9 +82,10 @@
         <entry key="..\:/barangbaku_android/app/src/main/res/drawable/search_cursor.xml" value="0.2337962962962963" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_account_detail.xml" value="0.22037037037037038" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_add_description.xml" value="0.217351598173516" />
-        <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_add_product.xml" value="0.1" />
+        <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_add_product.xml" value="0.2100456621004566" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_add_product_variant.xml" value="0.217351598173516" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_cart.xml" value="0.22037037037037038" />
+        <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_chat.xml" value="0.21296296296296297" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_filter.xml" value="0.2212962962962963" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_home.xml" value="0.536" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_login.xml" value="0.22037037037037038" />
@@ -140,6 +141,7 @@
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/lv_product_shipping.xml" value="0.24895833333333334" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/lv_shipping_already.xml" value="0.24895833333333334" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/product_placeholder.xml" value="0.264" />
+        <entry key="..\:/barangbaku_android/app/src/main/res/layout/toolbar_top.xml" value="0.21296296296296297" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/view_button_blue.xml" value="0.22037037037037038" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/view_product_variant.xml" value="0.264" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/wishlist_placeholder.xml" value="0.22037037037037038" />
