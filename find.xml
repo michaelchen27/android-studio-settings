@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '...\app\src\main\java\com\lingkarinovasimuda\barangbaku\activity\AddProductActivity.java [barangbaku_android.app]'" />
     <option name="defaultScopeName" value="File '...\app\src\main\java\com\lingkarinovasimuda\barangbaku\activity\AddProductActivity.java [barangbaku_android.app]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\lingkarinovasimuda\barangbaku\activity\AddProductActivity.java [barangbaku_android.app]'" />
   </component>
 </application>
