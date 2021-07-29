@@ -97,7 +97,7 @@
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_sales_history.xml" value="0.264" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_seller_complaint.xml" value="0.21296296296296297" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_seller_dashboard.xml" value="0.8" />
-        <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_seller_edit.xml" value="0.29506093649775494" />
+        <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_seller_edit.xml" value="0.536" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_seller_history.xml" value="0.217351598173516" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_seller_product_list.xml" value="0.8" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/activity_seller_register.xml" value="0.8" />
@@ -123,6 +123,7 @@
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_expandable_detail_complain.xml" value="0.21296296296296297" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_filter_checkbox.xml" value="0.3148148148148148" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_photos_attachment.xml" value="0.8" />
+        <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_photos_attachment_featured.xml" value="0.21296296296296297" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_product_item_shipping.xml" value="0.24895833333333334" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_searchlist.xml" value="0.22037037037037038" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_select_shipping.xml" value="0.24895833333333334" />
