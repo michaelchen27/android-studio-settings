@@ -67,6 +67,7 @@
         <entry key="..\:/barangbaku_android/app/src/main/res/drawable/ic_search_edittext.xml" value="0.2337962962962963" />
         <entry key="..\:/barangbaku_android/app/src/main/res/drawable/ic_share.xml" value="0.2337962962962963" />
         <entry key="..\:/barangbaku_android/app/src/main/res/drawable/ic_three_dots.xml" value="0.2337962962962963" />
+        <entry key="..\:/barangbaku_android/app/src/main/res/drawable/round_button_blue.xml" value="0.2263888888888889" />
         <entry key="..\:/barangbaku_android/app/src/main/res/drawable/round_button_clicked.xml" value="0.23472222222222222" />
         <entry key="..\:/barangbaku_android/app/src/main/res/drawable/round_button_disabled.xml" value="0.23472222222222222" />
         <entry key="..\:/barangbaku_android/app/src/main/res/drawable/round_checkout.xml" value="0.2640625" />
@@ -123,8 +124,8 @@
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_complaint_product.xml" value="0.4" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_expandable_detail_complain.xml" value="0.21296296296296297" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_filter_checkbox.xml" value="0.3148148148148148" />
-        <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_photos_attachment.xml" value="0.72" />
-        <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_photos_attachment_featured.xml" value="0.21296296296296297" />
+        <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_photos_attachment.xml" value="0.33688415446071907" />
+        <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_photos_attachment_featured.xml" value="0.536" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_product_item_shipping.xml" value="0.24895833333333334" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_searchlist.xml" value="0.22037037037037038" />
         <entry key="..\:/barangbaku_android/app/src/main/res/layout/cell_select_shipping.xml" value="0.24895833333333334" />
