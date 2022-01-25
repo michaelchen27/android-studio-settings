@@ -3,6 +3,7 @@
     <option name="compactStatusBar" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -16,6 +17,6 @@
     <option name="highlightColor" value="a0a0a0" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="46756ef0:177852c127e:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.7.2" />
   </component>
 </application>
