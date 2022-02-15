@@ -133,7 +133,9 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindNext" />
-  <action id="Flutter.Toolbar.ReloadAction" />
+  <action id="Flutter.Toolbar.ReloadAction">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
