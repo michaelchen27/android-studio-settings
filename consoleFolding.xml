@@ -1,0 +1,16 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="W/ActivityThread: Application com.tokopedia.testproject is waiting for the debugger on port 8100..." />
+      </list>
+    </option>
+    <option name="removedNegative">
+      <list>
+        <option value="at org.codehaus.groovy.runtime.DefaultGroovyMethods." />
+        <option value="at org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods." />
+        <option value="at org.codehaus.groovy.runtime.DefaultGroovyMethodsSupport." />
+      </list>
+    </option>
+  </component>
+</application>
