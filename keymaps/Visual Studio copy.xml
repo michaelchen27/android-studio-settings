@@ -189,6 +189,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Images.Thumbnails.Hide" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl alt back_space" />
   </action>
