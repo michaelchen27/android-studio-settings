@@ -1,7 +1,8 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Android Gradle Upgrade Notification" displayType="NONE" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="com.almightyalpaca.intellij.plugins.discord.project.show" displayType="STICKY_BALLOON" playSound="true" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
   </component>
 </application>
