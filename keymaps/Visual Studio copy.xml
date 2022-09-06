@@ -253,6 +253,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
   <action id="Switcher" />
+  <action id="ToggleFullScreen" />
   <action id="UpdateRunningApplication" />
   <action id="UsageGrouping.UsageType" />
   <action id="ViewSource" />
