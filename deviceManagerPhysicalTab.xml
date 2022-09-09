@@ -12,6 +12,17 @@
         <target value="Android API 32" />
         <api value="32" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="BH9711A4GU" />
+          </Key>
+        </key>
+        <name value="Sony 802SO" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
