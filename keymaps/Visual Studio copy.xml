@@ -217,6 +217,10 @@
     <keyboard-shortcut first-keystroke="shift alt close_bracket" />
   </action>
   <action id="OpenElementInNewWindow" />
+  <action id="OpenFile" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
