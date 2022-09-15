@@ -112,6 +112,7 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="EditorToggleInsertState" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -267,8 +268,14 @@
   </action>
   <action id="Switcher" />
   <action id="ToggleFullScreen" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="UsageGrouping.UsageType" />
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="t" />
+  </action>
   <action id="ViewSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
@@ -277,5 +284,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="tasks.close" />
 </keymap>
