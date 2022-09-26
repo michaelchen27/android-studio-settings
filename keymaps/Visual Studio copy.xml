@@ -5,7 +5,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt f12" />
   </action>
   <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="shift back_quote" />
+    <keyboard-shortcut first-keystroke="shift escape" />
   </action>
   <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow" />
