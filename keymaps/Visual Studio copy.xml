@@ -183,6 +183,7 @@
   <action id="GotoFile" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
