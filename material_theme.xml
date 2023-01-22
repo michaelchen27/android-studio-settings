@@ -2,6 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="compactMenus" value="true" />
     <option name="contrastMode" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="useMaterialFont" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isContrastMode" value="true" />
@@ -16,7 +18,7 @@
     <option name="highlightColor" value="a0a0a0" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="46756ef0:177852c127e:-8000" />
-    <option name="version" value="6.16.2" />
+    <option name="version" value="7.14.2" />
     <option name="showWhatsNew" value="false" />
   </component>
 </application>
